@@ -1,0 +1,29 @@
+[00:02:05] [Server thread/INFO]: [Ok4be: Set the weather to clear]
+[00:02:06] [Server thread/INFO]: [Ok4be: Set the time to 6000]
+[00:13:26] [Server thread/INFO]: <Ok4be> -285 63 -161
+[00:15:05] [Server thread/INFO]: [Ok4be: Successfully filled 2980 blocks]
+[00:15:45] [Server thread/INFO]: [Ok4be: Successfully filled 3108 blocks]
+[00:15:51] [Server thread/INFO]: [Ok4be: Successfully filled 1554 blocks]
+[00:38:26] [Server thread/INFO]: [Ok4be: Set the time to 13000]
+[00:41:22] [Server thread/INFO]: D0RA07[/0:0:0:0:0:0:0:1:57564] logged in with entity id 39311 at (-316.30891429068186, 67.0, -142.06420428422297)
+[00:41:22] [Server thread/INFO]: D0RA07 joined the game
+[00:43:28] [Server thread/INFO]: D0RA07 lost connection: Disconnected
+[00:43:28] [Server thread/INFO]: D0RA07 left the game
+[00:51:47] [Server thread/INFO]: [Ok4be: Set the time to 13000]
+[00:53:29] [Server thread/INFO]: Villager bfj['Mason'/102, l='ServerLevel[world]', x=-318.56, y=65.00, z=-279.93] died, message: 'Mason was slain by Zombie'
+[01:03:52] [Server thread/INFO]: [Ok4be: Set own game mode to Survival Mode]
+[01:04:24] [Server thread/INFO]: Ok4be lost connection: Disconnected
+[01:04:24] [Server thread/INFO]: Ok4be left the game
+[01:04:37] [Server thread/INFO]: Stopping the server
+[01:04:37] [Server thread/INFO]: Stopping server
+[01:04:37] [Server thread/INFO]: Saving players
+[01:04:37] [Server thread/INFO]: Saving worlds
+[01:04:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:04:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
